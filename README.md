@@ -3,8 +3,6 @@
 #### Version: `setfflag`
 * **SynZ & Wave**
 
-<img src="assets/bitdancer.png" width="888")/>
-
 <h3 align="center">꧖ꦿꦸ</h3>
 
 <h1 align="center">Lightning Technologies</h1>
