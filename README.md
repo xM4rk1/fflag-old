@@ -13,12 +13,6 @@
 setfflag("DebugRenderForceTechnologyVoxel", "True")
 
 ```
-### Shadowmap Lighting (Phase 2)
-```
-
-setfflag("FFlagDebugForceFutureIsBrightPhase2", "True")
-
-```
 ### Future Lighting (Phase 3)
 ```
 
