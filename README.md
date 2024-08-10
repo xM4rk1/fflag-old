@@ -15,10 +15,9 @@
 > [!CAUTION]
 > Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.
 
-#### Version: `8.4.24` - `8.10.24`
-* **174 Currently Listed**
-* `Vehicle Speed 1` `Vehicle Speed 2` `Void Unanchored Parts` `Enable Better Haptics` `Remove Haptics Option` `Custom Accessory Positions`
-
+#### Version: `8.11.24`
+* **177 Currently Listed**
+* `Freecam 1` `Freecam 2`
 ## Bloxstrap How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
 2. **Navigate to `Fast Flags` >> `Fast Flags Editor` >> `Add New` >>  `Import Json`.**
