@@ -24,13 +24,11 @@
 
 <h3 align="center">tell pizzaboxer to make good updates</h3>
 
-#### Version: `10.10.24` `F R E A K`
+#### Version: `10.10.25` `F R E A K`
 * **200 Currently Listed**
 * **Removed 28 FastFlags**
-* **`Slide on Terrain/Meshes`**
-* **`Self Explanatory 10`**
-* **`Self Explanatory 11`**
-* **`break everything`**
+* **Updated `Blue Theme`**
+* **Updated `Unified Lighting`**
 * **[Upcoming Updates Progress](assets/lists/updates/progress.md)**
 
 ## List Meanings
@@ -165,7 +163,7 @@ Wish it was different than what it was
 ### Unified Lighting
 ```json
 {
-    "FFlagRenderUnifiedLighting6": "True",
+    "FFlagRenderUnifiedLighting9": "True",
     "FFlagUnifiedLightingBetaFeature": "True"
 }
 ```
@@ -916,10 +914,9 @@ High
 ### Blue Theme
 ```json
 {
-    "FFlagLuaAppEnableFoundationColors3": "True"
+    "FFlagLuaAppEnableFoundationColors5": "True"
 }
 ```
-
 ### No Transparency V4 Menu **(2023)**
 ```json
 {
