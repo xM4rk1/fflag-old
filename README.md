@@ -163,7 +163,7 @@ Wish it was different than what it was
 ### Unified Lighting
 ```json
 {
-    "FFlagRenderUnifiedLighting9": "True",
+    "FFlagRenderUnifiedLighting8": "True",
     "FFlagUnifiedLightingBetaFeature": "True"
 }
 ```
