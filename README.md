@@ -177,13 +177,13 @@ Wish it was different than what it was
 > With this FastFlag enabled, Pre-Renderer is executed while the main thread is processing the previous frame. This adjustment allows the main thread to proceed without waiting for Pre-Renderer, leading to increased framerates at the expense of some frame latency.
 
 > [!TIP]
-> This flag is most effective in CPU-bound scenarios,
+> This flag is most effective in CPU-bound scenarios.
 
 > [!CAUTION]
 > Enabling this FastFlag may lead to compatibility issues with certain games. (It works fine dw)
 ```json
 {
-  "FFlagMovePrerender": "True"
+    "FFlagMovePrerender": "True"
 }
 ```
 ### Increased Grass Motion & No Grass Motion
