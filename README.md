@@ -25,10 +25,8 @@
 <h3 align="center">tell pizzaboxer to make good updates</h3>
 
 #### Version: `10.10.25` `F R E A K`
-* **200 Currently Listed**
-* **Removed 28 FastFlags**
-* **Updated `Blue Theme`**
-* **Updated `Unified Lighting`**
+* **201 Currently Listed**
+* **`Move Pre-Render Phase`**
 * **[Upcoming Updates Progress](assets/lists/updates/progress.md)**
 
 ## List Meanings
@@ -170,6 +168,24 @@ Wish it was different than what it was
 
 <h1 align="center">Graphical Settings</h1>
 
+
+### Move Pre-Render Phase [~25% Performance Boost]
+> [!IMPORTANT]  
+> This FastFlag moves the Pre-Render task to an off thread after all other tasks are completed. By default, Pre-Render runs first, forcing the render thread to wait until the Pre-Render process finishes before it can start rendering a frame.
+
+> [!NOTE]
+> With this FastFlag enabled, Pre-Renderer is executed while the main thread is processing the previous frame. This adjustment allows the main thread to proceed without waiting for Pre-Renderer, leading to increased framerates at the expense of some frame latency.
+
+> [!TIP]
+> This flag is most effective in CPU-bound scenarios,
+
+> [!CAUTION]
+> Enabling this FastFlag may lead to compatibility issues with certain games. (It works fine dw)
+```json
+{
+  "FFlagMovePrerender": "True"
+}
+```
 ### Increased Grass Motion & No Grass Motion
 ```json
 {
