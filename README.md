@@ -25,8 +25,9 @@
 <h3 align="center">tell pizzaboxer to make good updates</h3>
 
 #### Version: `10.10.25` `F R E A K`
-* **201 Currently Listed**
+* **202 Currently Listed**
 * **`Move Pre-Render Phase`**
+* **`Voicechat Mute Toggles`**
 * **[Upcoming Updates Progress](assets/lists/updates/progress.md)**
 
 ## List Meanings
@@ -737,6 +738,12 @@ High
 
 <h1 align="center">User Interface/Visuals</h1>
 
+### Voicechat Mute Toggles
+```json
+{
+    "FFlagMuteTogglesEnableIXP": "False"
+}
+```
 ### 🍔
 > [!NOTE]
 > **Chrome UI only**
