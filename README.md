@@ -10,19 +10,8 @@
 <h4 align="center">Join our Discord Server to contribute & expand our list (We need you)</h4>
 <h5 align="center">https://discord.gg/HNe7fzR9xg</h5>
 
-<h4 align="center">Join our Roblox group</h4>
-<h5 align="center">https://www.roblox.com/groups/34911020/FIVE55</h5>
-
-<h4 align="center">Repository Discussions</h4>
-<h5 align="center">https://github.com/espresso-soft/rbxflags/discussions</h5>
-
-<h4 align="center">PROMOTE OUR CLEAN LIST TO NORMAL USERS</h4>
-<h5 align="center">https://github.com/fastvariable/nvrmaintain</h5>
-
 > [!CAUTION]
 > **Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.**
-
-<h3 align="center">tell pizzaboxer to make good updates</h3>
 
 #### Version: `10.10.25` `F R E A K`
 * **202 Currently Listed**
