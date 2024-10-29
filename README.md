@@ -1667,33 +1667,13 @@ High
 
 <h1 align="center">Links</h1>
 
-### [Make Your Own Custom Roblox Textures](https://github.com/GoingCrazyDude/roblox-custom-textures/blob/main/README.md) *[Github Repo Link]*
 ### [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) *[Github Repo Link]*
 ### [NVIDIA Shaders Guide](https://github.com/catb0x/Roblox-Shaders-Guide) *[Github Repo Link]*
-### [EnableAnselForRoblox](https://github.com/DED0026/EnableAnselForRoblox) *[Github Repo Link]*
 ### [Bloxshade](https://github.com/Extravi/Bloxshade) *[Github Repo Link]*
 ### [rbxperf](https://github.com/espresso-soft/rbxperf) *[Github Repo Link]*
-### [Bindable Lag Switch](https://github.com/Hermivore8151/Bindable-LagSwitch) *[Github Repo Link]*
-### [MEGA FLAG LIST](https://discord.com/channels/1099468797410283540/1139962301991104582/1170417533355036712) *[Bloxstrap Server]*
 ### [rbxservers.xyz](https://rbxservers.xyz/) *[Website]*
 
 <h4 align="center">⁺ You've reached the bottom of the list! ⁺</h4>
-
-<h3 align="center">
-  <a href="https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL">
-    <img src="https://i.scdn.co/image/ab67616d0000b27310daba582005ee9d0f29b6ce" width="256" alt="Listen on Spotify">
-  </a>
-</h3>
-
-
-<h3 align="center">Timeless - The Weeknd, Playboi Carti</h3>
-
-
-<h1 align="center">
-  <a href="https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg" width="100">
-  </a>
-</h1>
 
 <h3 align="center">Tools</h3>
 <p align="center"><a href="https://raw.githubusercontent.com/MaximumADHD/Roblox-Client-Tracker/roblox/FVariables.txt">FVariables.txt</a></p>
