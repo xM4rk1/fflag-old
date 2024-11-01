@@ -14,10 +14,15 @@
 > **Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.**
 
 #### Version: `11.01.24` `EA2`
-* **205 Currently Listed**
+* **207 Currently Listed**
 * **`Slide on Terrain/Mesh`**
 * **`Drive Vehicles Slowly`**
 * **`Replace all Decals with a Test Image`**
+* **Updated `Unified Lighting` to work for the lastest update`**
+* **Updated `Blue Theme`**
+* **Updated `V2 Menu 2**
+* **`Better Trackpad Scrolling`**
+* **`Maximum Dev Console Log Limit`/`Self Explanatory 12`**
 * **[Upcoming Updates Progress](assets/lists/updates/progress.md)**
 
 ## List Meanings
@@ -152,7 +157,7 @@ Wish it was different than what it was
 ### Unified Lighting
 ```json
 {
-    "FFlagRenderUnifiedLighting8": "True",
+    "FFlagRenderUnifiedLighting10": "True",
     "FFlagUnifiedLightingBetaFeature": "True"
 }
 ```
@@ -815,17 +820,17 @@ High
     "FFlagEnableNavBarLabels3": "False"
 }
 ```
-### V1 Menu Fix
-```json
-{
-    "FFlagSettingsHubIndependentBackgroundVisibility": "True",
-    "FFlagFixReportButtonCutOff": "False"
-}
+### V1 Menu Fix [Temporary]
+```
+Switch your channel to zprojectuwpua for a temporary fix!
 ```
 ### V2 Menu
 ```json
 {
-    "FIntNewInGameMenuPercentRollout3": "1000"
+    "FIntNewInGameMenuPercentRollout3": "100",
+    "FFlagEnableInGameMenuControls": "False",
+    "FFlagDisableNewIGMinDUA": "True",
+    "FFlagEnableInGameMenuChromeABTest4": "False"
 }
 ```
 ### Custom Disconnect Message
@@ -927,7 +932,7 @@ High
 ### Blue Theme
 ```json
 {
-    "FFlagLuaAppEnableFoundationColors5": "True"
+    "FFlagLuaAppEnableFoundationColors6": "True"
 }
 ```
 ### No Transparency V4 Menu **(2023)**
@@ -1057,6 +1062,12 @@ High
 {
     "FFlagPlatformEventEnabled2": "True",
     "FStringPlatformEventUrl": "AnyLinkHere"
+}
+```
+### Better Trackpad Scrolling
+```json
+{
+    "FFlagBetterTrackpadScrolling": "True"
 }
 ```
 
@@ -1652,6 +1663,12 @@ High
 ```json
 {
     "FFlagDebugCountSimBodyAllocations": "True"
+}
+```
+### Self Explanatory 12
+```
+{
+    "FIntNewDevConsoleMaxLogCount": "2147483647"
 }
 ```
 <h1 align="center">Community Presets</h1>
