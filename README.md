@@ -1,5 +1,5 @@
 > [!NOTE]
-> If you find our repository useful don't forget to star!
+> I WILL NOT UPDATE THIS, PLEASE HEAD TO: https://github.com/xM4rk1/fflag-list OR THE ACTUAL REPOSITORY: https://github.com/virtualflags/archive !!!!!!!!!!!
 
 <h3 align="center">
   <img src="assets/timeless.gif" width="256" alt="Playboi Carti">
